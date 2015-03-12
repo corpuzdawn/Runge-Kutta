@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1394665706 source:c:\users\corpuzdawn999\desktop\ce p3\main.cpp
+	<iostream>
+	"runge_kutta.h"
+
+1394494892 c:\users\corpuzdawn999\desktop\ce p3\runge_kutta.h
+
+1394665116 source:c:\users\corpuzdawn999\desktop\ce p3\runge_kutta.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	"runge_kutta.h"
+
